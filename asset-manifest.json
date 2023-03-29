@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.738560d8.css",
-    "main.js": "/static/js/main.504e6e8e.js",
-    "static/js/787.e9f8d6bc.chunk.js": "/static/js/787.e9f8d6bc.chunk.js",
-    "index.html": "/index.html",
-    "main.738560d8.css.map": "/static/css/main.738560d8.css.map",
-    "main.504e6e8e.js.map": "/static/js/main.504e6e8e.js.map",
-    "787.e9f8d6bc.chunk.js.map": "/static/js/787.e9f8d6bc.chunk.js.map"
+    "main.css": "/X-O-by-Jazz/static/css/main.738560d8.css",
+    "main.js": "/X-O-by-Jazz/static/js/main.6e4bc346.js",
+    "static/js/787.e9f8d6bc.chunk.js": "/X-O-by-Jazz/static/js/787.e9f8d6bc.chunk.js",
+    "index.html": "/X-O-by-Jazz/index.html",
+    "main.738560d8.css.map": "/X-O-by-Jazz/static/css/main.738560d8.css.map",
+    "main.6e4bc346.js.map": "/X-O-by-Jazz/static/js/main.6e4bc346.js.map",
+    "787.e9f8d6bc.chunk.js.map": "/X-O-by-Jazz/static/js/787.e9f8d6bc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.738560d8.css",
-    "static/js/main.504e6e8e.js"
+    "static/js/main.6e4bc346.js"
   ]
 }
